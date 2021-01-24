@@ -17,6 +17,9 @@ https://github.com/furuhashilab/sotsuron2020/projects/28
 
 https://docs.google.com/presentation/d/1qMNwNLO8L9e0psAMpWMNatnPh8EM85AfXpczGDs7GvU/edit?usp=sharing
 
+## 聞き書き１
+
+https://docs.google.com/document/d/1hyRg_f763ap9JP2ASaYLOxB7YXyYwSSgp6wCtD33efQ/edit?usp=sharing
 
 
 # 概要
