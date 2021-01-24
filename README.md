@@ -23,7 +23,7 @@ https://docs.google.com/presentation/d/1qMNwNLO8L9e0psAMpWMNatnPh8EM85AfXpczGDs7
 
 # 導入
 
-# 方法
+# 研究方法
 
 # 結果
 
@@ -32,3 +32,4 @@ https://docs.google.com/presentation/d/1qMNwNLO8L9e0psAMpWMNatnPh8EM85AfXpczGDs7
 # まとめ
 
 # 謝辞
+本研究を進めるにあたり、青山学院大学地球社会共生学部教授の古橋大地氏をはじめ多くの方々より多大な助言を賜りました。厚く感謝申し上げます。
