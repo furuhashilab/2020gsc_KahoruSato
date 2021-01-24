@@ -54,3 +54,6 @@ https://docs.google.com/document/d/18AjIdwHBuyfC0lXn9aukiRdtg74um-WcfelElb3SKzI/
 
 # 謝辞
 本研究を進めるにあたり、青山学院大学地球社会共生学部教授の古橋大地氏をはじめ多くの方々より多大な助言を賜りました。厚く感謝申し上げます。
+
+#参考資料
+https://docs.google.com/spreadsheets/d/1athfPNXfIMLYiE4opGLglqpjhVWGdLn9V7gw0sWWNfE/edit?usp=sharing
