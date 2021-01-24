@@ -37,6 +37,14 @@ https://docs.google.com/document/d/18AjIdwHBuyfC0lXn9aukiRdtg74um-WcfelElb3SKzI/
 
 
 # Methods
+「聞き書き」と「グラフィックレコーディング」を組み合わせる上で、「」
+⑴
+「聞き書き」を「聞き」・「書き」に分けて方法をのべる。
+「聞き」の手順
+・話し手を探す
+・日程調整をする
+・話し手の話を聞く・録音する・グラフィックレコーディングをする
+
 
 # Results
 
