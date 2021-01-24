@@ -9,6 +9,10 @@
 
 https://docs.google.com/document/d/1TIVoNStjKjch6P9_3c4WSliLJztx1ESoPTqHPy1TQow/edit?usp=sharing
 
+## 進捗管理用プロジェクト
+
+https://github.com/furuhashilab/sotsuron2020/projects/28
+
 # 概要
 
 # 導入
