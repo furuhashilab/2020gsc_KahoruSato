@@ -17,15 +17,15 @@ https://github.com/furuhashilab/sotsuron2020/projects/28
 
 https://docs.google.com/presentation/d/1qMNwNLO8L9e0psAMpWMNatnPh8EM85AfXpczGDs7GvU/edit?usp=sharing
 
-## 聞き書き１
+## 聞き書き１（グラフィックレコーディング画像データ添付）
 
 https://docs.google.com/document/d/1hyRg_f763ap9JP2ASaYLOxB7YXyYwSSgp6wCtD33efQ/edit?usp=sharing
 
-## 聞き書き２
+## 聞き書き２（グラフィックレコーディング画像データ添付）
 
 https://docs.google.com/document/d/17u9fMGVoCYoIIUQzqmO8GzxxKKgLmO7exhXrTlRvg5U/edit?usp=sharing
 
-## 聞き書き３
+## 聞き書き３（グラフィックレコーディング画像データ添付）
 
 https://docs.google.com/document/d/18AjIdwHBuyfC0lXn9aukiRdtg74um-WcfelElb3SKzI/edit?usp=sharing
 
