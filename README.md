@@ -29,17 +29,17 @@ https://docs.google.com/document/d/17u9fMGVoCYoIIUQzqmO8GzxxKKgLmO7exhXrTlRvg5U/
 
 https://docs.google.com/document/d/18AjIdwHBuyfC0lXn9aukiRdtg74um-WcfelElb3SKzI/edit?usp=sharing
 
-# 概要
+# Introduction
 
-# 導入
+# Methods
 
-# 研究方法
+# Results
 
-# 結果
+# Discussion
 
-# 考察
+# Conclusion
 
-# まとめ
+# 
 
 # 謝辞
 本研究を進めるにあたり、青山学院大学地球社会共生学部教授の古橋大地氏をはじめ多くの方々より多大な助言を賜りました。厚く感謝申し上げます。
