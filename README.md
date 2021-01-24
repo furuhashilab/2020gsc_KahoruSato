@@ -43,10 +43,19 @@ https://docs.google.com/document/d/18AjIdwHBuyfC0lXn9aukiRdtg74um-WcfelElb3SKzI/
 ・話し手を見つける
 ・日程調整
 ・話し手を聞く・録音する・グラフィックレコーディングをする
-・
+・音声を書き起こす
+
+手法（２）
+・話し手を見つける
+・日程調整
+・話し手を聞く・録音する
+・音声を書き起こす・グラフィックレポートを作成する
+
+
 
 
 # Results
+
 
 # Discussion
 
