@@ -1,5 +1,5 @@
 # 2020gsc_KahoruSato
-## 青山学院大学　地球社会共生学部　地球社会共生学科A
+## 青山学院大学　地球社会共生学部　地球社会共生学科
 ## 1A118082　佐藤かほる
 ## 指導教員　古橋大地　教授
 
@@ -12,6 +12,12 @@ https://docs.google.com/document/d/1TIVoNStjKjch6P9_3c4WSliLJztx1ESoPTqHPy1TQow/
 ## 進捗管理用プロジェクト
 
 https://github.com/furuhashilab/sotsuron2020/projects/28
+
+## 最終プレゼンスライド
+
+https://docs.google.com/presentation/d/1qMNwNLO8L9e0psAMpWMNatnPh8EM85AfXpczGDs7GvU/edit?usp=sharing
+
+
 
 # 概要
 
