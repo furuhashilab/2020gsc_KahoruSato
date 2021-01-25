@@ -77,8 +77,6 @@ https://docs.google.com/document/d/18AjIdwHBuyfC0lXn9aukiRdtg74um-WcfelElb3SKzI/
 ### 聞き書きとグラフィックレコーディング
 リアルタイムで話し手の言葉をグラフィックに変えて表現した。
 
-
-![グラレコ画像](https://user-images.githubusercontent.com/64342648/105673399-5b00a980-5f29-11eb-8a6c-69e911e19dc0.jpg)
 ![IMG_1676(1) (1)](https://user-images.githubusercontent.com/64342648/105673399-5b00a980-5f29-11eb-8a6c-69e911e19dc0.jpg)
 
 # Conclusion
