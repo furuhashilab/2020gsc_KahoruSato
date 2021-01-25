@@ -22,17 +22,6 @@ https://github.com/furuhashilab/sotsuron2020/projects/28
 
 https://docs.google.com/presentation/d/1qMNwNLO8L9e0psAMpWMNatnPh8EM85AfXpczGDs7GvU/edit?usp=sharing
 
-### 聞き書き１人目文章データ（グラフィックレポート・グラフィックレコーディング画像データ添付）
-
-https://docs.google.com/document/d/1hyRg_f763ap9JP2ASaYLOxB7YXyYwSSgp6wCtD33efQ/edit?usp=sharing
-
-### 聞き書き２人目文章データ（グラフィックレポート画像データ添付）
-
-https://docs.google.com/document/d/17u9fMGVoCYoIIUQzqmO8GzxxKKgLmO7exhXrTlRvg5U/edit?usp=sharing
-
-### 聞き書き３人目文章データ（グラフィックレポート画像データ添付）
-
-https://docs.google.com/document/d/18AjIdwHBuyfC0lXn9aukiRdtg74um-WcfelElb3SKzI/edit?usp=sharing
 
 # 概要
 本研究は、「聞き書き」と「グラフィックレコーディング/グラフィックレポート」という2つの情報記録手法を掛け合わせてる新しい記録手法の実践から、この手法の利点・欠点を報告するものである。「聞き書き」とは、話し手の言葉を書き起こす情報収集の手法である。相手が話したいことを聞くという点で、インタビュー等とは異なる。通常「聞き書き」は伝統文化、芸術の継承・地域、世代間交流のために用いられることが多く、文章のみで情報を記録している。一方で「グラフィックレコーディング」とは人々の議論や対話を図や文字や絵を組み合わせたグラフィックを用いてリアルタイムで可視化する手法のことだ。「グラフィックレポート」は「グラフィックレコーディング」と異なり、議論の後に作成されるものだ。本研究では、新しい“情報記録手法”として「聞き書き×グラフィックレコーディング/グラフィックレポート」を実践し、いかに情報を活用できるかを調査する。
@@ -60,7 +49,17 @@ https://docs.google.com/document/d/18AjIdwHBuyfC0lXn9aukiRdtg74um-WcfelElb3SKzI/
 
 
 # Results
+聞き書き１人目文章データ（グラフィックレポート・グラフィックレコーディング画像データ添付）
 
+https://docs.google.com/document/d/1hyRg_f763ap9JP2ASaYLOxB7YXyYwSSgp6wCtD33efQ/edit?usp=sharing
+
+聞き書き２人目文章データ（グラフィックレポート画像データ添付）
+
+https://docs.google.com/document/d/17u9fMGVoCYoIIUQzqmO8GzxxKKgLmO7exhXrTlRvg5U/edit?usp=sharing
+
+聞き書き３人目文章データ（グラフィックレポート画像データ添付）
+
+https://docs.google.com/document/d/18AjIdwHBuyfC0lXn9aukiRdtg74um-WcfelElb3SKzI/edit?usp=sharing
 
 # Discussion
 
