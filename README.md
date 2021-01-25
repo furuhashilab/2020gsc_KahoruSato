@@ -47,6 +47,7 @@ https://apps.apple.com/jp/app/%E3%83%9C%E3%82%A4%E3%82%B9%E3%83%A1%E3%83%A2/id10
 #### 書き起こし
 Google ドキュメント
 https://www.google.com/intl/ja_jp/docs/about/
+音声入力もGoogle ドキュメントを用いた。
 
 #### グラフィックレコーディング・グラフィックスレポート
 iPad Air3, Appple Pencil
