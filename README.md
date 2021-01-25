@@ -1,33 +1,33 @@
 # 2020gsc_KahoruSato
 # 【2020年度ゼミ論】「聞き書き」と「グラフィックレコーディング」を組み合わせた記録手法の利点と欠点を明らかにする
 
-## 青山学院大学　地球社会共生学部　地球社会共生学科
-## 1A118082　佐藤かほる
-## 指導教員　古橋大地　教授
+### 青山学院大学　地球社会共生学部　地球社会共生学科
+### 1A118082　佐藤かほる
+### 指導教員　古橋大地　教授
 ### © FuruhashiLabratory/KahoruSato, CC BY 4.0
-# 資料
+## 資料
 
-## 2020年度ゼミ論本文
+### 2020年度ゼミ論本文
 
 https://docs.google.com/document/d/1TIVoNStjKjch6P9_3c4WSliLJztx1ESoPTqHPy1TQow/edit?usp=sharing
 
-## 進捗管理用プロジェクト
+### 進捗管理用プロジェクト
 
 https://github.com/furuhashilab/sotsuron2020/projects/28
 
-## 最終プレゼン資料
+### 最終プレゼン資料
 
 https://docs.google.com/presentation/d/1qMNwNLO8L9e0psAMpWMNatnPh8EM85AfXpczGDs7GvU/edit?usp=sharing
 
-## 聞き書き１人目文章データ（グラフィックレコーディング画像データ添付）
+### 聞き書き１人目文章データ（グラフィックレポート・グラフィックレコーディング画像データ添付）
 
 https://docs.google.com/document/d/1hyRg_f763ap9JP2ASaYLOxB7YXyYwSSgp6wCtD33efQ/edit?usp=sharing
 
-## 聞き書き２人目文章データ（グラフィックレコーディング画像データ添付）
+### 聞き書き２人目文章データ（グラフィックレポート画像データ添付）
 
 https://docs.google.com/document/d/17u9fMGVoCYoIIUQzqmO8GzxxKKgLmO7exhXrTlRvg5U/edit?usp=sharing
 
-## 聞き書き３人目文章データ（グラフィックレコーディング画像データ添付）
+### 聞き書き３人目文章データ（グラフィックレポート画像データ添付）
 
 https://docs.google.com/document/d/18AjIdwHBuyfC0lXn9aukiRdtg74um-WcfelElb3SKzI/edit?usp=sharing
 
