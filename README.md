@@ -74,6 +74,10 @@ https://docs.google.com/document/d/18AjIdwHBuyfC0lXn9aukiRdtg74um-WcfelElb3SKzI/
 
 # Discussion
 
+### 聞き書きとグラフィックレコーディング
+リアルタイムで話し手の言葉をグラフィックに変えて表現した。
+IMG_1676.jpg
+
 # Conclusion
 
 # 謝辞
