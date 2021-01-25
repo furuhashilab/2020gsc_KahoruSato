@@ -78,7 +78,7 @@ https://docs.google.com/document/d/18AjIdwHBuyfC0lXn9aukiRdtg74um-WcfelElb3SKzI/
 リアルタイムで話し手の言葉をグラフィックに変えて表現した。
 
 
-！［グラレコ画像](https://imgur.com/hHSQYMP)
+！［グラレコ画像](https://github.com/furuhashilab/2020gsc_KahoruSato/issues/1#issue-793111256)
 
 # Conclusion
 
