@@ -56,15 +56,19 @@ https://apps.apple.com/jp/app/%E3%82%A2%E3%82%A4%E3%83%93%E3%82%B9%E3%83%9A%E3%8
 
 
 # Results
-聞き書き１人目文章データ（グラフィックレポート・グラフィックレコーディング画像データ添付）
+#### 聞き書き１人目１回目（文章・グラフィックレポート画像データ）
 
 https://docs.google.com/document/d/1hyRg_f763ap9JP2ASaYLOxB7YXyYwSSgp6wCtD33efQ/edit?usp=sharing
 
-聞き書き２人目文章データ（グラフィックレポート画像データ添付）
+#### 聞き書き１人目２回目（文章・グラフィックレコーディング画像データ）
+
+https://docs.google.com/document/d/1MTr5ZKvd42BO0TAHEG1Je6IRSrn3qnA_-SiiBfIi3eA/edit?usp=sharing
+
+聞き書き２人目（文章・グラフィックレポート画像データ）
 
 https://docs.google.com/document/d/17u9fMGVoCYoIIUQzqmO8GzxxKKgLmO7exhXrTlRvg5U/edit?usp=sharing
 
-聞き書き３人目文章データ（グラフィックレポート画像データ添付）
+聞き書き３人目（文章・グラフィックレポート画像データ）
 
 https://docs.google.com/document/d/18AjIdwHBuyfC0lXn9aukiRdtg74um-WcfelElb3SKzI/edit?usp=sharing
 
