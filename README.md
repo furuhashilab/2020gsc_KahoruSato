@@ -41,7 +41,7 @@ https://docs.google.com/presentation/d/1qMNwNLO8L9e0psAMpWMNatnPh8EM85AfXpczGDs7
 ### 使用したツール
 
 #### 録音
-ボイスレコーダー
+ボイスレコーダー（i Phone標準搭載アプリケーション）
 https://apps.apple.com/jp/app/%E3%83%9C%E3%82%A4%E3%82%B9%E3%83%A1%E3%83%A2/id1069512134
 
 #### 書き起こし
