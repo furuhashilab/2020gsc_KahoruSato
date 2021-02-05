@@ -12,15 +12,13 @@
 ## 資料
 
 ### 2020年度ゼミ論本文
-
 https://docs.google.com/document/d/1TIVoNStjKjch6P9_3c4WSliLJztx1ESoPTqHPy1TQow/edit?usp=sharing
 
 ### 進捗管理用プロジェクト
-
 https://github.com/furuhashilab/sotsuron2020/projects/28
 
 ### 最終プレゼン資料
+https://docs.google.com/presentation/d/1mEACPsn8B-JMnRtoeqnijHGMaotNXlR6Edv0SAKc8FM/edit?usp=sharing
 
-
-### 参考資料
+### 参考文献リスト
 https://docs.google.com/spreadsheets/d/1JarDB6eXn3_PCbd8f20lE4qBJmehPQeqkkhYMWd2VCc/edit?usp=sharing
